@@ -1,0 +1,36 @@
+.bg-img{
+  background: url('../src/images/background.jpg') no-repeat center center fixed;
+}
+.bg-img2{
+  background: url('../src/images/background3.jpg') no-repeat center center fixed;
+  background-size: cover;
+
+}
+.bg-img3{
+  background: url('../src/images/12804.jpg') no-repeat center center fixed;
+  background-size: cover;
+
+}
+.created{
+  background-image: url('images/Rectangle 105.svg');
+  background-repeat: no-repeat;
+  height: 120%;
+  border-radius: 10px;
+ 
+
+}
+.processed{
+  background-image: url('images/Rectangle 106.svg');
+  height: 120%;
+  border-radius: 10px;
+}
+.approved{
+  background-image: url('images/Rectangle 107.svg');
+  height: 120%;
+  border-radius: 10px;
+}
+.disbursed{
+  background-image: url('images/Rectangle 108.svg');
+  height: 120%;
+  border-radius: 10px;
+}
