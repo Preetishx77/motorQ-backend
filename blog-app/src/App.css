@@ -1,0 +1,46 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 0px 16px;
+  text-decoration: none;
+}
+
+li:hover {
+  background-color: #111;
+}
+li:last-child {
+  border-right: none;
+}
+.btn{
+  background-color: transparent;
+  color: #4CAF50;
+  border: none;
+}
+.search-container{
+  margin: 3rem;
+
+}
+.search-container input{
+  width: 30%;
+  height: 2rem;
+}
+.search-container button{
+  width: 5rem;
+  height: 2.4rem;
+  background-color: #4CAF50;
+  color: white;
+  font-weight: bold;
+}
